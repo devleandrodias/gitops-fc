@@ -50,4 +50,4 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          repository: ${{ secrets.DOCKERHUB_USERNAME }}/fullcycle-gitops
+          repository: devleandrodias/gitops-fc
