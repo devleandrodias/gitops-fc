@@ -9,4 +9,4 @@ resources:
 images:
 - name: goserver
   newName: /fullcycle-gitops
-  newTag: c02c06909202bdf248e3870c7a4d916e8eb6f1f2
+  newTag: c0862457ef61b6d15ee145122148b58d20ebf1e0
