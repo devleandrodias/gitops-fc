@@ -8,5 +8,5 @@ resources:
 
 images:
 - name: goserver
-  newName: devleandrodias/gitops-fc
-  newTag: c0862457ef61b6d15ee145122148b58d20ebf1e0
+  newName: /gitops-fc
+  newTag: ca8d16e3b1debe4a8e51afa8efd3d314327452eb
